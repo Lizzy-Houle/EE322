@@ -15,8 +15,8 @@ $ cat file
 $ cp file file1   
 $ mv file file2   
 $ rm file2   
-$ clear
-![Screenshot4-5](https://user-images.githubusercontent.com/78380289/154306360-9e503e5d-9125-429a-bb62-4a4ea4c862a8.jpg)
+$ clear         
+![Screenshot4-5](https://user-images.githubusercontent.com/78380289/154306360-9e503e5d-9125-429a-bb62-4a4ea4c862a8.jpg)       
 $ nano file
 ![nanoFile](https://user-images.githubusercontent.com/78380289/154305683-acec2be5-2819-4f0f-99ca-92333fbcc3fe.png)
 $ man uname
